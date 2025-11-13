@@ -1,4 +1,4 @@
-# Morse Code Decoder with Raspberry Pi Pico (C++)
+# Morse Code Decoder with Raspberry Pi Pico (C)
 
 This project involves building a Morse Code decoder using a Raspberry Pi Pico and C++ programming language. The system decodes Morse Code signals received from a button and provides immediate feedback through lights and sound, while displaying the decoded Morse Code in real-time on a terminal and a 7-segment display.
 
@@ -17,7 +17,7 @@ This project involves building a Morse Code decoder using a Raspberry Pi Pico an
   
 ## Skills Demonstrated
 - Hardware assembly and component integration.
-- C++ programming for real-time processing and interaction.
+- C programming for real-time processing and interaction.
 - Handling real-time data and providing user feedback through lights and sound.
 
 ## Project Workflow
@@ -33,7 +33,7 @@ This project involves building a Morse Code decoder using a Raspberry Pi Pico an
 
 2. **Software Setup**:
    - Clone or download the repository to your local machine.
-   - Open the project in your preferred C++ development environment.
+   - Open the project in your preferred C development environment.
    - Build and upload the code to the Raspberry Pi Pico.
 
 3. **Running the Project**:
